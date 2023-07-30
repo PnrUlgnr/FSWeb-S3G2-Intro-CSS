@@ -39,7 +39,7 @@ Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğin
   - [ ] Karşılaştırın: `#FFCD69`
 - [ ] Yazı renkleri ve fontlar:
   - [ ] Peri Bacaları Tanıtımı fontunun adı Chelsea Market'tir ve şu linkten ulaşılabilir [google fonts](https://fonts.google.com/specimen/Chelsea+Market)
-  - [ ] Diğer tüm fontlar Roboto Mono'dur ve şuradan ulaşılabilir [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
+  - [ ] Diğer tüm fontlar Roboto Mono'dur ve şuradan ulaşılabilir [google fonts](//fonts.https:google.com/specimen/Roboto+Mono)
 - [ ] Ana metnin arka plan rengi: `#DDB9A3`
 - [ ] Footer'ın arka plan rengi: `#F9E7DC`
 - [ ] "olağanüstü ve rüya gibi bir deneyim." ve "dünyanın en iyi ATV turlarından birini" kelime öbeklerini bold yapın.
